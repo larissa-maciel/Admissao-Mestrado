@@ -17,7 +17,7 @@ Este projeto utiliza aprendizado de máquina para prever a aprovação de candid
 ## Como Usar
 
 1. Clone o repositório.
-   bash```
+   ```bash
    https://github.com/larissa-maciel/Admissao-Mestrado.git
 
 2. Execute o notebook Jupyter localmente ou no Google Colab.
