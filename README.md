@@ -22,9 +22,7 @@ Este projeto utiliza aprendizado de máquina para prever a aprovação de candid
 
 2. Execute o notebook Jupyter localmente ou no Google Colab.
 
-3. Carregue o conjunto de dados.
-
- - Basta referenciar o caminho correto no notebook.
+3. Carregue o conjunto de dados e referencie o caminho correto no notebook.
 
 4. Execute todas as células do notebook para treinar os modelos e gerar as análises.
 
